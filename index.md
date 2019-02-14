@@ -1,3 +1,9 @@
-# Welcome to my blog
+# Welcome to my website
 
-I'm glad you are here. I plan to talk about ...
+## Introduction
+
+Hello my name is Stefan and I'm 18 years old.
+
+##Games I play
+
+I play RocketLeague mostly, sometimes I play other games such as Golf with your Friends, GtaV and Trove.
